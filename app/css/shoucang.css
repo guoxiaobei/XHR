@@ -1,0 +1,39 @@
+#head{
+width:100vw;
+height:10vh;
+background:#927223;
+}
+dl{
+    margin-bottom: 3px;
+    height: 1.5rem;
+    background: gold;
+    border-bottom: 1px solid grey;
+    overflow: hidden;
+    padding-left: 0.25rem;
+}
+dl dt dd{
+    float: left;
+    height: 100%;
+}
+dl img{
+    border-radius: 50%;
+    width: 1.3rem;
+    height: 1.2rem;
+    margin-top: 0.15rem;
+}
+h1{
+    font-size: 0.4rem;
+    margin-top: 0.3rem;
+    margin-left: 0.3rem;
+}
+dd:nth-child(3){
+    font-size: 0.25rem;
+    margin-left: -1.2rem;
+    margin-top: 0.9rem;
+}
+.icon{
+    width: 0.72rem;
+    height: 0.72rem;
+    margin-top: 0.4rem;
+    margin-left: 1rem;
+}
